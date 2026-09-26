@@ -35,5 +35,5 @@
 
 ## Licensing ![License](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)    ![License](https://img.shields.io/badge/License-LGPLv3-blue?style=for-the-badge)
 
-Licensed under the GNU GPLv3 / LGPLv3 — see [`LICENSE`](LICENSE) and [`LICENSE.LESSER`](LICENSE.LESSER).  
-**Exception:** the [`processor/`](processor) directory is All Rights Reserved and *not* covered by the GPL/LGPL. See [`processor/LICENSE`](processor/LICENSE) and [`NOTICE`](NOTICE).
+Лицензировано на условиях GNU GPLv3 / LGPLv3 - [`LICENSE`](LICENSE) и [`LICENSE.LESSER`](LICENSE.LESSER).  
+**Исключение:** в [`processor/`](processor). Каталог защищен авторским правом (все права защищены) и **не** подпадает под действие лицензий GPL/LGPL. См. [`processor/LICENSE`](processor/LICENSE) и [`NOTICE`](NOTICE).
