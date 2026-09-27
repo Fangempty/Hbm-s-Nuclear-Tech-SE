@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center"> HBM's Nuclear Tech Mod Spider Edition  <br>
-    <a href="https://modrinth.com/mod/ntm-se"><img src="https://img.shields.io/modrinth/dt/ntm-se?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a>
+    <a href="https://modrinth.com/mod/ntm-ce"><img src="https://img.shields.io/modrinth/dt/ntm-se?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5ca424&logoColor=1c1c1c" alt="Modrinth"></a>
     <br>
 </h1>
 
@@ -21,9 +21,9 @@
 
 <br>
 <div dir=rtl align=center>
-	
+
 ### **❓ FAQ**
-	
+
 ### Готов ли форк к выживанию?
 Да! Безусловно!!!
 ### Планируете ли вы провести капитальную реорганизацию машиностроительного и нефтяного секторов?
